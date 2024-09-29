@@ -1,26 +1,11 @@
 ## Well Hello 👋
 
-I'm a DevOps Consultant building solutions in the cloud. I enjoy solving folks challenges and showing them what is possible with automation. 
+I'm a DevOps Consultant building solutions in the cloud. I enjoy solving challenges and showing what is possible with automation. 
 
-- 🌤️ I'm currently contributing to [Terraform](https://www.terraform.io/) providers and guiding others.
+- 🌤️ I'm currently contributing to [Terraform](https://www.terraform.io/) providers and guiding others on Infrastucture as Code.
 - 🌱 When time permits, I dabble in the frontend building simple apps to solve my own problems.
 - 🔥 When I'm bored I can burn hours tweaking the home lab. Why? 🤷‍♂️
 
 ## Find me on
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/bondanthony)
-
-<!--
-**BondAnthony/bondanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
