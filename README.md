@@ -29,7 +29,5 @@ I'm a DevOps Consultant building solutions in the cloud. I enjoy solving challen
     <a href="https://www.credly.com/earner/earned/badge/141c0551-931e-43ba-85eb-a900000a8889">
         <img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="[alt](https://www.credly.com/earner/earned/badge/141c0551-931e-43ba-85eb-a900000a8889)" title="AWS Certified Security – Specialty" width="100" height="100" />
     </a>
-    <a href="https://www.credly.com/earner/earned/badge/6119ec2f-e897-4caa-b1bf-572f217ad3be">
-        <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="[alt](https://www.credly.com/earner/earned/badge/6119ec2f-e897-4caa-b1bf-572f217ad3be)" title="AWS Certified Security – Specialty" width="100" height="100" />
-    </a>
+    <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="[alt](https://www.credly.com/earner/earned/badge/6119ec2f-e897-4caa-b1bf-572f217ad3be)" title="AWS Certified Security – Specialty" width="100" height="100" />
 </div>
