@@ -11,7 +11,7 @@ I'm a DevOps Consultant building solutions in the cloud. I enjoy solving challen
 - 📬 [LinkedIn](https://www.linkedin.com/in/bondanthony)
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; max-width: 460px; margin: 0 auto;">
-<img src="https://images.credly.com/size/680x680/images/a4c6650b-58c3-4be5-bdb0-4d1f437d4e40/blob" alt="HashiCorp Certified: Terraform Authoring and Operations Professional" title="HashiCorp Certified: Terraform Authoring and Operations Professional" width="100" height="100" />
+<img src="https://images.credly.com/size/680x680/images/439c971f-01d1-4633-aa6c-5570457403d6/blob" alt="HashiCorp Certified: Terraform Authoring and Operations Advanced" title="HashiCorp Certified: Terraform Authoring and Operations Advanced" width="100" height="100" />
     <img src="https://images.credly.com/size/680x680/images/629a4f2a-27cf-4c06-8d4f-080dd7a209b3/blob" alt="HashiCorp Core Contributor 2025" title="HashiCorp Core Contributor 2025" width="100" height="100" />
     <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate" title="HashiCorp Certified: Terraform Associate" width="100" height="100" />
     <img src="https://images.credly.com/size/680x680/images/0e839ba3-a45b-41a3-9b8f-818de0d9278e/blob" alt="HashiCorp Certified: Consul Associate" title="HashiCorp Certified: Consul Associate" width="100" height="100" />
